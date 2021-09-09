@@ -45,7 +45,7 @@ const App = () => {
             fontFamily: "sans-serif",
           }}
         >
-          Notepad App
+          To Do List
         </h1>
         <br />
         <Box display="flex" justifyContent="center">
